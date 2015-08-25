@@ -22,6 +22,14 @@ Testing, plus breaking things down into tasks and designing problems.
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Expressing Ideas and stuff
+
+Writing clearly, talking about code, and so on and so on.
+
+- Example
+- Example
+- Example
+
 ## Education
 
 #### Makers Academy (June 2015 to August 2015)
@@ -44,9 +52,9 @@ Testing, plus breaking things down into tasks and designing problems.
 ## Experience
 
 **Financial Times**
-*Editorial Intern & Freelance Contributor*
+*Editorial Intern / Freelance Writer*
 **The Observer**
-*Music Critic*
+*Music Writer*
 **Soul Jazz Records**
 *Thing*
 **Company Name** (start_date to end_date)
