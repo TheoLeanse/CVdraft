@@ -4,17 +4,18 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+#### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed. Inspired by Rich Hickey
 
 - Experience
 - Achievements
-- Evidence
+- How to Solve It
 
-#### Another Skill
+#### BDD
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Testing, plus breaking things down into tasks and designing problems.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -42,7 +43,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
+**Financial Times**
+*Editorial Intern & Freelance Contributor*
+**The Observer**
+*Music Critic*
+**Soul Jazz Records**
+*Thing*
+**Company Name** (start_date to end_date)
 *Your job title*  
-**Company Name** (start_date to end_date)   
+**Company Name** (start_date to end_date)
 *Your job title*  
