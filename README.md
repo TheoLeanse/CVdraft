@@ -8,16 +8,20 @@ A sentence about who and what you are.
   Driven by love.
   Sprit animal is Otter.
   Playful.
+  Acting in good faith.
   Love a meaty problem.
   Though I'm told I am strange, I think I'm very witty.
   If I had to be an animal I would be an otter.
   Lurve people.
   I am so excited by code.
   I don't know fuck all.
+  I like knots.
+  I like to unpick things.
   I want to be a really bloody great developer.
   Total focus on code has been amazing.
   My mind is so used to being blown now that I can't go back.
   From studying literature to selling music to writing code...
+  76% in paper on Finnegans Wake and Ezra Pound's Cantos
   I like to understand difficult thing.
   Make complex things simple.
   Be responsible for my own shit.
@@ -28,6 +32,9 @@ A sentence about who and what you are.
   Documentary filmmaking.
   Care about the people I work with, and I care about the people I work for - Really care about Software's capacity for making the world a better place.
   Love using my brain, and getting smarter.
+  I think my very favourite thing is the moment when I really understand a new concept and can put in into practice.
+  I care about the work I do making a positive impact - making me smarter and making the work an incrementally better joint.
+  I really like Javascript (Backend with Express and Node, and frontend frameworks like Angular and React), I like the elegance and design-first principles of Ruby, I am excited by Clojure and Elm.
 
 Then a sentence about what you've achieved.
 
@@ -65,11 +72,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Writing clearly, talking about code, and so on and so on. It is a kind of problem solving.
 
+Talking about what you love, understanding new concepts, explaining complex ideas to newcomers.
+
 I can talk to Journos about what Developers are building.
 
 - Example
 - Example
 - Example
+
+or
+
+#### Writing
+
+Writing as finding the solutions to problems very much akin to code. Clarity, simplicity, rigorous.
+
+- Journo
+- Script reports
+- Product descriptions
+
+#### Self-direction, motivation, dedication
+
+I am lucky enough to know what I want to do, and I don't want to squander that privilege.
 
 #### Teams
 
@@ -97,7 +120,8 @@ Resourcefulness
 
 #### University of Oxford (2007 to 2010)
 
-- English Language & Literature, with specialisms in Modernism and psychoanalytic theory
+- English Language & Literature, with specialisms in Modernism and psychoanalytic theory - basically early hypertext and code.
+- 76% (High 1st) for Dissertation on code in Modernist Literature.
 
 #### Any other qualifications
 
