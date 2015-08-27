@@ -17,13 +17,17 @@ A sentence about who and what you are.
   I don't know fuck all.
   I like knots.
   I like to unpick things.
+  How to approach a problem.
   I want to be a really bloody great developer.
   Total focus on code has been amazing.
+  So excited by the idea that I could actually do this for a living.
   My mind is so used to being blown now that I can't go back.
   From studying literature to selling music to writing code...
   76% in paper on Finnegans Wake and Ezra Pound's Cantos
   I like to understand difficult thing.
   Make complex things simple.
+  Being lost is a promise of an interesting problem.
+  Love principled design, and conceptual frameworks.
   Be responsible for my own shit.
   Find out about things.
   Record collecting.
@@ -34,7 +38,7 @@ A sentence about who and what you are.
   Love using my brain, and getting smarter.
   I think my very favourite thing is the moment when I really understand a new concept and can put in into practice.
   I care about the work I do making a positive impact - making me smarter and making the work an incrementally better joint.
-  I really like Javascript (Backend with Express and Node, and frontend frameworks like Angular and React), I like the elegance and design-first principles of Ruby, I am excited by Clojure and Elm.
+  I really like Javascript (Backend with Express and Node, and frontend frameworks like Angular and React -- Is this UI??), I like the elegance and design-first principles of Ruby, I am excited by Clojure and Elm.
 
 Then a sentence about what you've achieved.
 
