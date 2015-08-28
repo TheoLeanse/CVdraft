@@ -39,6 +39,10 @@ A sentence about who and what you are.
   I think my very favourite thing is the moment when I really understand a new concept and can put in into practice.
   I care about the work I do making a positive impact - making me smarter and making the work an incrementally better joint.
   I really like Javascript (Backend with Express and Node, and frontend frameworks like Angular and React -- Is this UI??), I like the elegance and design-first principles of Ruby, I am excited by Clojure and Elm.
+  What I really want to get across is how much I care about the code I work on.
+  Take pride in writing simple, beautiful code that solves the right problem.
+  Benefit of retro.
+  Agile methodology.
 
 Then a sentence about what you've achieved.
 
@@ -47,6 +51,22 @@ Then a sentence about what you've achieved.
 And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
   Learning from the best.
+
+
+Project examples:
+
+Major clicking moment with Express with Thermostat - when trying to use body parser and sessions (having to save the sessions).
+Clojure with Twitter Markov generator (begun at the London Clojure Dojo). Got into Clojure while working at Signal.
+Rails ActiveRecord clicked finally with Pairing Matrix.
+Styling clicked with Gill and Gill, a project made for my buddy.
+JS basics clicked with working through little exercises and codewars.
+Git workflow clicked with Final Project. shopt -s dotglob nullglob
+Design principles clicked with takeaway (the one where Sam gave good feedback)
+
+What I want to improve:
+
+
+
 
 ## Skills
 
@@ -98,6 +118,18 @@ Writing as finding the solutions to problems very much akin to code. Clarity, si
 
 I am lucky enough to know what I want to do, and I don't want to squander that privilege.
 
+#### Working with others
+
+Compromise.
+Criticism.
+Direct and open.
+
+- Scriptwriting
+
+#### Understanding complex things
+
+Modernism. Love the challenge. Attracted to difficult problems, wanting to understand things that I do not (yet).
+
 #### Teams
 
 Resourcefulness
@@ -107,6 +139,21 @@ Resourcefulness
 - Example
 
 #### Stories
+
+Writing stories. Journalism and screen. Stories are fucking powerful. Understand people and how to communicate with them.
+
+- Journo
+- Screenplay
+- Script reports
+
+#### Research
+
+Knowing where to find info
+
+- Academic
+- Dusty Springfield
+- Journo
+- Music
 
 ## Education
 
