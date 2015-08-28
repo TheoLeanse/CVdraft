@@ -76,6 +76,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   Making things simple / Problem solving.
   Defining a Problem. Poyla. Practice.
   BDD / Methodology.
+  Chris Alexander - design patterns
 
 - Experience
 - Achievements
