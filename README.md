@@ -2,70 +2,160 @@
 
 A sentence about who and what you are.
 
-  Love to learn.
-  Highly, and variously, experienced.
+  I am a highly, and variously, experienced lover of learning.
+
   What are the best types of experience I've had?
-  Driven by love.
-  Sprit animal is Otter.
-  Playful.
-  Acting in good faith.
-  Love a meaty problem.
-  Though I'm told I am strange, I think I'm very witty.
-  If I had to be an animal I would be an otter.
-  Lurve people.
-  I am so excited by code.
-  I don't know fuck all.
-  I like knots.
-  I like to unpick things.
-  How to approach a problem.
-  I want to be a really bloody great developer.
-  Total focus on code has been amazing.
-  So excited by the idea that I could actually do this for a living.
-  My mind is so used to being blown now that I can't go back.
-  From studying literature to selling music to writing code...
-  76% in paper on Finnegans Wake and Ezra Pound's Cantos
+
   I like to understand difficult thing.
+
   Make complex things simple.
+
+  Driven by love.
+
+  Sprit animal is Otter.
+
+  Playful.
+
+  Acting in good faith.
+
+  Love a meaty problem.
+
+  Though I'm told I am strange, I think I'm very witty.
+
+  If I had to be an animal I would be an otter.
+
+  Lurve people.
+
+  I am so excited by code.
+
+  I don't know fuck all.
+
+  I like knots.
+
+  I like to unpick things.
+
+  How to approach a problem.
+
+  I want to be a really bloody great developer.
+
+  Total focus on code has been amazing.
+
+  So excited by the idea that I could actually do this for a living.
+
+  My mind is so used to being blown now that I can't go back.
+
+  From studying literature to selling music to writing code...
+
+  78% in paper on Finnegans Wake and Ezra Pound's Cantos
+
+  I like to understand difficult thing.
+
+  Make complex things simple.
+
   Being lost is a promise of an interesting problem.
+
   Love principled design, and conceptual frameworks.
+
   Be responsible for my own shit.
+
   Find out about things.
+
   Record collecting.
+
   Think learning things is the most valuable use of the wonderful human mind.
+
   Make up mystery stories.
+
   Documentary filmmaking.
-  Care about the people I work with, and I care about the people I work for - Really care about Software's capacity for making the world a better place.
+
+  Interpersonal skills - shop etc
+
+  Care about the people I work with, and I care about the people I work for -
+  Really care about Software's capacity for making the world a better place.
+
   Love using my brain, and getting smarter.
-  I think my very favourite thing is the moment when I really understand a new concept and can put in into practice.
+
+  I think my very favourite thing is the moment when I really understand a new
+  concept and can put in into practice.
+
   I care about the work I do making a positive impact - making me smarter and making the work an incrementally better joint.
+
   I really like Javascript (Backend with Express and Node, and frontend frameworks like Angular and React -- Is this UI??), I like the elegance and design-first principles of Ruby, I am excited by Clojure and Elm.
+
   What I really want to get across is how much I care about the code I work on.
+
   Take pride in writing simple, beautiful code that solves the right problem.
+
   Benefit of retro.
+
   Agile methodology.
+
+  Learning new things all the time and putting them into practice quickly
+
+  Best lessons from makers might have been learned from project work and team
+  work  
+
+  Simplicity
+
+  How to approach a problem
+
+  How to be lost
+
+  Enthusiasm
+
+  Want to be a great developer
+
+  I love to understand complexity and make simple things.
+
+  Think it's important to identify some of the things I want ot know more about - don't know much but can scope out the future learning process
+
+  meetups, Google campus
+
 
 Then a sentence about what you've achieved.
 
+  Highly and variously experienced, having learned a lot from acheivements, and self-motivated and self-discipline.
+
   Manage to only do what I enjoy.
+
+  Moving on from two dream jobs to a third.
+
 
 And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+  I want to become a bloody good developer.
+
+  So excited by the idea that I could actually do this for a living.
+
+  My mind is so used to being blown now that I can't go back.
   Learning from the best.
+
 
 
 Project examples:
 
 Major clicking moment with Express with Thermostat - when trying to use body parser and sessions (having to save the sessions).
+
 Clojure with Twitter Markov generator (begun at the London Clojure Dojo). Got into Clojure while working at Signal.
+
 Rails ActiveRecord clicked finally with Pairing Matrix.
+
 Styling clicked with Gill and Gill, a project made for my buddy.
+
 JS basics clicked with working through little exercises and codewars.
+
 Git workflow clicked with Final Project. shopt -s dotglob nullglob
+
 Design principles clicked with takeaway (the one where Sam gave good feedback)
 
 What I want to improve:
 
-
+- Front-end
+- Back end
+- Middle end
+- JS fundamentals
+- New frameworks (React)
+- Functional programming to make me better at programming
 
 
 ## Skills
@@ -81,17 +171,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Experience
 - Achievements
 - How to Solve It
-
-#### BDD
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-  Testing, plus breaking things down into tasks and designing problems.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### (Expressing) Ideas and stuff
 
@@ -115,6 +194,18 @@ Writing as finding the solutions to problems very much akin to code. Clarity, si
 - Script reports
 - Product descriptions
 
+#### BDD
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+  Testing, plus breaking things down into tasks and designing problems.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+
 #### Self-direction, motivation, dedication
 
 I am lucky enough to know what I want to do, and I don't want to squander that privilege.
@@ -130,6 +221,8 @@ Direct and open.
 #### Understanding complex things
 
 Modernism. Love the challenge. Attracted to difficult problems, wanting to understand things that I do not (yet).
+
+#### Fast learning
 
 #### Teams
 
@@ -170,7 +263,7 @@ Knowing where to find info
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### University of Oxford (2007 to 2010)
+#### University of Oxford (September 2007 to June 2010)
 
 - English Language & Literature, with specialisms in Modernism and psychoanalytic theory - basically early hypertext and code.
 - 76% (High 1st) for Dissertation on code in Modernist Literature.
@@ -183,13 +276,15 @@ Knowing where to find info
 
 **Financial Times**
 *Editorial Intern / Freelance Writer*
+
 **Signal**
 *Person*
+
 **The Observer / London Review of Books / Prospect Magazine / Vinyl Factory**
 *Freelance Journalist and Editorial*
+
 **Soul Jazz Records**
 *Thing*
-**Company Name** (start_date to end_date)
-*Your job title*  
+
 **Company Name** (start_date to end_date)
 *Your job title*  
