@@ -1,6 +1,6 @@
 ## Theo Leanse
 
-* In love with learning to solve problems in practice.
+* Learning to solve problems in practice.
 
 I like knots: I like to cope with conceptual complexity in simple ways.
 
