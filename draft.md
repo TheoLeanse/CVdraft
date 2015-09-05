@@ -82,7 +82,7 @@ What thou lov’st well shall not be reft from thee") and James Joyce's Finnegan
 
 - Modern Standard Arabic to Intermediate at SOAS
 
-## Work
+## Work:
 
 **Financial Times**
 *Editorial Intern / Freelance Writer*
