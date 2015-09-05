@@ -1,20 +1,16 @@
 ## Theo Leanse
 
-* Learning to solve problems in practice.
+I like knots: I like to solve conceptual complexity with simple solutions. From frustation at feeling lost to enjoying a meaty problem: thanks to seeing problem solving as a practicable skill.
 
-I like knots: I like to cope with conceptual complexity in simple ways.
+I'm struck by [Rich Hickey's thoughts](https://www.youtube.com/watch?v=f84n5oFoZBc) on problem solving as a skill to practice, and an important focus above specific methodologies, but I've found great value in Hickey's recommendation of George Polya's 'How to Solve It', and the Makers Academy focus on BDD, Design Patterns and Anti-Patterns. how to break it down into smaller parts, how to simplify something complex.
 
-I was struck by [Rich Hickey's thoughts](https://www.youtube.com/watch?v=f84n5oFoZBc) on problem solving as a practicable skill, and his recommendation of George Polya's 'How to Solve It'.
+I think my greatest value is in my experience (ie having learned from perspective and variety, learning different things, understanding different approaches) and self-motivation and self-discipline of a seasoned freelancer.
 
-I am focused on practicing how to approach a problem, how to break it down into smaller parts, how to simplify something complex. Approach, BDD, Design Patterns (and Anti-Patterns), Evidence?
+I take real care in the code I write and I want to become a bloody good developer.
 
-* I think my greatest value is in my experience (ie having learned from perspective and variety, learning different things, understanding different approaches) and self-motivation and self-discipline of a seasoned freelancer.
+## Skills:
 
-* I am incredibly excited by code. I take great care in the code I write and I want to become a bloody good developer. My dream job.
-
-## Skills
-
-#### Software development
+### Software development
 
 From a crash course in computation at Goldsmiths to self teaching and MOOC study ([MIT's amazing intro](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5), [Harvard's great foundation](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)), to decision to go for the Makers Academy bootcamp, which teaches Ruby, Javascript, plus Git and a strong emphasis on BDD methodology.
 
@@ -39,7 +35,7 @@ Takeaway Challenge | Ruby language and design principles | Design principles cli
 - Functional programming to make me better at programming
 - Building UI with ClojureScript and React with EMACS, to be as hipster as possible.
 
-#### Communicating with clarity
+### Communicating with clarity
 
 A background in journalism, scriptwriting and an essay-based academic subject. Has been great preparation; emphasising clarity and rigour in the approach to a problem. Really amazing way to practice clarity of thought.
 
@@ -47,7 +43,7 @@ A background in journalism, scriptwriting and an essay-based academic subject. H
 - I love communicating information in writing for the same reason I love pair programming and writing tests: over time it is a practice that forces you to understand the problem and consider your approach before you get stuck in.
 - Script reports and research projects for Film production projects. Script reporting. Also presentation of research finding, which, in fact...
 
-#### Targeting research
+### Efficient research
 
 Through research projects, I've spent a good chunk of my working life googling for a living, as well as learning how to have good phone calls and deal with publicity departments.
 
