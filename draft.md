@@ -2,7 +2,7 @@
 
 Junior developer in love with simple solutions to meaty problems, applying Design Patterns and Anti-Patterns, the lessons from George Polya's 'How to Solve It', and the metholodologes of TDD and BDD.
 
-Having learned from perspective and variety of professional experience, I'm quick to learn and adapt to different approaches, displaying the self-motivation and self-discipline of a seasoned freelancer.
+Having learned from perspective and variety of professional experience, I'm quick to learn and adapt to different approaches, combining the self-motivation and self-discipline of a seasoned freelancer with the communication and compromise of a teamwork evangelist.
 
 I take real care in the code I write and I want to become a bloody good developer.
 
