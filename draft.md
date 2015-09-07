@@ -1,10 +1,8 @@
 ## Theo Leanse
 
-I like knots: I like to solve conceptual complexity with simple solutions. From frustation at feeling lost to enjoying a meaty problem: thanks to seeing problem solving as a practicable skill.
+Junior developer in love with simple solutions to meaty problems, applying Design Patterns and Anti-Patterns, the lessons from George Polya's 'How to Solve It', and the metholodologes of TDD and BDD.
 
-I'm struck by [Rich Hickey's thoughts](https://www.youtube.com/watch?v=f84n5oFoZBc) on problem solving as a skill to practice, and an important focus above specific methodologies, but I've found great value in Hickey's recommendation of George Polya's 'How to Solve It', and the Makers Academy focus on BDD, Design Patterns and Anti-Patterns. how to break it down into smaller parts, how to simplify something complex.
-
-I think my greatest value is in my experience (ie having learned from perspective and variety, learning different things, understanding different approaches) and self-motivation and self-discipline of a seasoned freelancer.
+Having learned from perspective and variety of professional experience, I'm quick to learn and adapt to different approaches, displaying the self-motivation and self-discipline of a seasoned freelancer.
 
 I take real care in the code I write and I want to become a bloody good developer.
 
@@ -12,48 +10,45 @@ I take real care in the code I write and I want to become a bloody good develope
 
 ### Software development
 
-From a crash course in computation at Goldsmiths to self teaching and MOOC study ([MIT's amazing intro](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5), [Harvard's great foundation](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)), to decision to go for the Makers Academy bootcamp, which teaches Ruby, Javascript, plus Git and a strong emphasis on BDD methodology.
+Over the past 5 years I've gone from gentle, self-directed study (including [MIT's amazing intro](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5) and [Harvard's great foundation](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)), to the intensity of the Makers Academy bootcamp. I'm now eager to work across the stack.
 
 **Example projects:**
 
 Project name | What I learned | Clicking moment
 --- | --- | ---
-Thermostat | Full stack JS (Express, maybe exendable to React?) deployed to Heroku | Major clicking moment with Express with Thermostat - when trying to use body parser and sessions (having to save the sessions).
+[Thermostat](https://github.com/TheoLeanse/simple-express-thermostat) | Full stack JS (Express, maybe exendable to React?) deployed to Heroku | Major clicking moment with Express with Thermostat - when trying to use body parser and sessions (having to save the sessions).
 Clojure Markov | Clojure | Clojure with Twitter Markov generator (begun at the London Clojure Dojo). Got into Clojure while working at Signal.
 Pairing Matrix | Ruby on Rails, maybe extendable with SASS | Rails ActiveRecord clicked finally with Pairing Matrix. Specific bit.
-Gill and Gill Website | SASS styling, deployed with Middleman | Styling clicked with Gill and Gill, a project made for my buddy.
-JS exercises | JavaScript language fundamentals and design principles | JS basics clicked with working through little exercises and codewars.
-Detour | Ruby on Rails API and app logic querying a PSQL db, with a mobile app for iOS and Android built in Ionic | Git workflow clicked with Final Project. shopt -s dotglob nullglob
-Takeaway Challenge | Ruby language and design principles | Design principles clicked with takeaway (the one where Sam gave good feedback)
+[Gill and Gill Website](https://github.com/TheoLeanse/gillgill) | SASS styling, deployed with Middleman | Styling clicked with Gill and Gill, a project made for my buddy.
+Detour | Ruby on Rails API and app logic querying a PSQL db, with a mobile app for iOS and Android built in Ionic | Git workflow clicked with Final Project. And some mad shell commands: shopt -s dotglob nullglob
+[Takeaway Challenge](https://github.com/TheoLeanse/takeaway-challenge) | Ruby language and design principles | Design principles clicked with takeaway (the one where Sam gave good feedback)
 
 **What I want to improve:**
 
-- JavaScript: Promises, ECMAScript 6, ...
-- Networking
+- JavaScript: Promises, ECMAScript 6, functional JS
+- Firm understanding of the networking under the hood
 - Software Virtualization, Containers and Docker
-- Design Patterns and Anti-Patterns. Principles.
-- Functional programming to make me better at programming
-- Building UI with ClojureScript and React with EMACS, to be as hipster as possible.
+- Building UI with ClojureScript and React with EMACS editor (to be as hip as possible).
 
 ### Communicating with clarity
 
-A background in journalism, scriptwriting and an essay-based academic subject. Has been great preparation; emphasising clarity and rigour in the approach to a problem. Really amazing way to practice clarity of thought.
+A background in journalism, scriptwriting and an essay-based academic subject is great preparation for programming. I practice clear thinking and rigour in the approach to a problem.
 
 - From [writing about computers](http://www.lrb.co.uk/blog/2014/12/05/theo-leanse/at-the-computer-farm) to [writing about a Welsh mine](http://www.ft.com/cms/s/0/f849863c-1a86-11e5-a130-2e7db721f996.html), plus [live music reviews](http://www.theguardian.com/music/2014/oct/05/sbtrkt-live-review-academy-brixton-more-sum-parts) and [corporate reporting](http://www.ft.com/cms/s/0/38d29230-ced2-11e4-893d-00144feab7de.html#axzz3kfONyBM1), for papers like the Financial Times, The Observer, The London Review of Books
 - I love communicating information in writing for the same reason I love pair programming and writing tests: over time it is a practice that forces you to understand the problem and consider your approach before you get stuck in.
+- Communication within teams.
+- Readability
 - Script reports and research projects for Film production projects. Script reporting. Also presentation of research finding, which, in fact...
+
 
 ### Efficient research
 
-Through research projects, I've spent a good chunk of my working life googling for a living, as well as learning how to have good phone calls and deal with publicity departments.
+I've already spent a good chunk of my working life googling for a living, and I think that may continue.
 
-- Academic research paper researching and unpicking (I've always been very proud of my 78%, on Ezra Pound's Cantos (favourite bit is "The ant’s a centaur in his dragon world." or "What thou lovest well is thy true heritage /
-What thou lov’st well shall not be reft from thee") and James Joyce's Finnegans Wake ["the book the web was invented for"](http://www.theguardian.com/books/booksblog/2015/apr/28/finnegans-wake-james-joyce-modern-interpretations)))
+- I've always been very proud of the 78% receivied for my dissertaion researching and unpicking Ezra Pound's Cantos (fav line: "The ant’s a centaur in his dragon world.") and James Joyce's Finnegans Wake (["the book the web was invented for"](http://www.theguardian.com/books/booksblog/2015/apr/28/finnegans-wake-james-joyce-modern-interpretations)).
 - Tracking down Dusty Springfield's backing musicians in Nashville and Memphis for a forthcoming biopic - talking for hours with the men who made [this](https://www.youtube.com/watch?v=DjydOI4MEIw)
-- Editorial Intern, googling for a living, plus phoning people up.
-- Documentary filmmaking, going out and talking to people. Finding stories and interviewees, and then going out and making them happen / talking to people.
+- I've researched and made documentary films about computers, record dealers and italo-disco musicians, which taught me how to going out and talking to people. Finding stories and interviewees, and then going out and making them happen / talking to people.
 - As a buyer for the best record shop in the world, I had to know what I was talking about, and continually research new releases, obscure old music. A [video](https://vimeo.com/67873092) and a [podcast](http://www.thevinylfactory.com/vinyl-factory-releases/listen-to-a-new-vinyl-only-mix-from-legendary-uk-label-soul-jazz-records/) to give a sense of this.
-
 
 ## Education
 
